@@ -24,6 +24,9 @@ It's a [Flake8](https://gitlab.com/pycqa/flake8) wrapper to make it cool.
 
 ![output example](./assets/grouped.png)
 
+# disabling of issues
+is there any reason to disable the GitHub's issues feature for the project? there doesn't seems to be any notifications regarding this. Could you explain the situation?
+
 ## Installation
 
 ```bash
